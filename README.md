@@ -26,10 +26,6 @@ A simple web-based game where the player attempts to guess a randomly generated 
 1. Clone or download this repository.
 2. Open `index.html` in any web browser.
 
-## Screenshot
-
-![Game Screenshot](screenshot.png) *(Add a screenshot of the game interface here)*
-
 ---
 
 **Happy guessing!**
